@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <h1>Internet</h1>    
+    </head>
+<body>
+    <h3>Contenido<h3>
+        <ul>
+            <li>Principales protocolos</li>
+            <li>Formas de conectarse</li>
+        </ul>
+        <ul>
+        <h2>1.Principales protocolos</h2>
+                    <li>transmision de ficheros</li>
+                    <p>FTP</p>
+                    <li>Correo electronico</li>
+                    <p>IMAP</p>
+                    <p>POP</p>
+                    <p>SMPT</p>
+        </ul>
+        <ul>
+         <h2>2.Formas de concectarse</h2>
+         Red telefonica conmutada (RTC)
+             La linea telefonica de servicios para toda la vida.Para acceder a internet es necesario un modem
+         
+         Red Digital de servicios integrados (RDSI)
+             Una linea telefonica especial. Para acceder a Internet es necesario un modem RSDI.
+         
+         Linea de abonado Digital asimetrica (ADSL)
+             Se basa en la conversión de una linea RTC en una linea de alta velocidad. Para acceder a internet
+
+         Fibra Óptica
+             Una linea de fibra óptica. Normalmente la fibra óptica no llega hasta el usuario final, por lo que el termino más apropiado es fibra hibrida coaxial.
+            </ul>
+        </body>
+</html>
